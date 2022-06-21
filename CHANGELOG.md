@@ -7,9 +7,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [0.1.0] - 2022-06-21
+
 ### Added
 
 - Extracted `onemodel-cli` code form the OneModel repository.
 - Added tests for exporting into Matlab.
 
-
+[unreleased]: https://github.com/sb2cl/onemodel-cli/compare/v0.1.0...develop
+[0.1.0]: https://github.com/sb2cl/onemodel-cli/releases/tag/v0.1.0
