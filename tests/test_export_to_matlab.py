@@ -1,7 +1,7 @@
 import os
 
 import pytest
-from onemodel.cli import cli
+from onemodel_cli import cli
 from sbml2dae.dae_model import DaeModel
 from sbml2dae.matlab import Matlab
 
