@@ -10,5 +10,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 
 - Extracted `onemodel-cli` code form the OneModel repository.
+- Added tests for exporting into Matlab.
 
 
