@@ -1,5 +1,5 @@
 VERSION := $(shell sed -n 's/^ *version.*=.*"\([^"]*\)".*/\1/p' pyproject.toml)
-NAME := $(shell sed -n 's/^ *name.*=.*"\([^"]*\)".*/\1/p' pyproject.toml)
+NAME := onemodel_cli
 
 test:
 	poetry run pytest
