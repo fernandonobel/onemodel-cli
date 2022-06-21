@@ -31,8 +31,9 @@ classifiers = [
 include = ["NOTICE"]
 
 [tool.poetry.dependencies]
-python = "^3.7"
+python = "^3.8"
 click = "^8.0.0"
+onemodel = "^0.2.0"
 
 [tool.poetry.dev-dependencies]
 nox-poetry = "*"
